@@ -8,8 +8,9 @@ I am passionate about Web Development, Machine Learning, and AI.<br>
 
 
 ![Cuong's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imvietcuongfrvietnam&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-🔥 Featured Projects:
-🚀 Web & App Development Projects:
+<br>
+🔥 Featured Projects: <br>
+🚀 Web & App Development Projects: <br>
 <a href="https://github.com/imvietcuongfrvietnam/projectI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=imvietcuongfrvietnam&repo=projectI&theme=radical" />
@@ -27,7 +28,8 @@ I am passionate about Web Development, Machine Learning, and AI.<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=imvietcuongfrvietnam&repo=projectWeb&theme=onedark" />
 </a>    
-🤖 Machine Learning & AI Projects:
+<br>
+🤖 Machine Learning & AI Projects:<br>
 <a href="https://github.com/imvietcuongfrvietnam/projectII">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=imvietcuongfrvietnam&repo=projectII&theme=merko" />
@@ -36,5 +38,6 @@ I am passionate about Web Development, Machine Learning, and AI.<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=imvietcuongfrvietnam&repo=DS&theme=cobalt" />
 </a>
+<br>
 Thanks for visiting my profile! 😊🚀
 
